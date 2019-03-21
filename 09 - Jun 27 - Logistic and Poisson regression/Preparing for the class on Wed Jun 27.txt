@@ -1,0 +1,6 @@
+In preparing for class on Wed Jun 27, I think the core reading in K&S Chapter 8 is 8.1-8.11.
+The concepts in logic regression will be covered in the Rossi chapter for next week.
+
+In K&S Chapter 7, please complete Activities 9, 10, 15, 17, 20, 21, 22, 27, 34.
+Poisson log-linear regression uses function "glm", argument "family=poisson", and an "offset" function.
+Submit using the file name "KS-Ch8.R".

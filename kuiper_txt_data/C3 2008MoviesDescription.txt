@@ -1,0 +1,18 @@
+Variable	Description	Unit	Source	Further Instruction
+RottenTomatoesScore	The percentage of positive reviews from Approved Tomotameter Critics for a certain movie. Shown on the website as TOMATOMETER 	Percentage	www.rottentomatoes.com	
+ReleaseDate	The first date on which each movie (not DVD) was released in U.S. theaters. If the movie has an exlusive released day and then expanded to wide release. Here we use the exclusive date. 			
+CreativeType	One criteria that the-numbers uses to identify a movie.		www.the-numbers.com	
+DistributedBy	The company that distributed this film.		www.boxofficemojo.com	
+StorySource	One criteria that the-numbers uses to identify a movie.		www.-numbers.com	
+Budget	Estimated budget (estimated by imdb)	US Dollar	www.imdb.com	" (1) go to http://www.imdb.com/ and search for those movies,  (2) then go to the link ""box office/business."" (3) Estimated budget is shown on the top of that webpage."
+BoxOfficeGross	The most recently updated amount of box office in the USA as shown on imdb (as of April 2010)	US Dollar	www.imdb.com	"(1) go to http://www.imdb.com/ and search for those movies,  (2) then go to the link ""box office/business."" (3) The first number under the Title ""Gross""."
+OpeningWeekendGross	Gross within the opening week	US Dollar	www.imdb.com	
+Genre	"The genre of each movie (Action-Adventure, Animation, Biography, Crime, Documentary, Drama, Family, Horror, Musical, Mystery, Romance, Romantic-Comedy)"		www.imdb.com	
+MPAA	Provided by MPAA		www.boxofficemojo.com	
+RunTime	The length of each movie in minutes			
+NumberScreensOpeningWeekend	Number of Screens on Opening Weekend			
+GrossperScreenOpenWeekend	OpeningWeekendGross/NumberScreensOpeningWeekend			
+IMDB score	average public rating (out of 10)		www.imdb.com	
+AcademyAwardNominations	amount of acting Academy Award nominations of entire cast in their careers		www.imdb.com	
+GoogleHitsOfDirector	"Name as provided by imdb.com in quotes all searched on Nov 31 and Dec 1, 2009"		www.google.com	
+Rank	By US sales among all movies in 2008		www.boxofficemojo.com	

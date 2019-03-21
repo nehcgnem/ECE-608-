@@ -1,0 +1,14 @@
+In preparing for class on Wed Jul 11, I think the core reading in K&S Chapter 5 is 5.1 to 5.9.
+
+In K&S Chapter 5, please complete Activities 1, 2, 8, 15.
+Submit using the file name "KS-Ch5.R".
+
+I observe the following:
+    Function "aov" form the analysis-of-variance model (same as a regression model).
+    Function "factor" will convert a numeric variable (such as "Student" here) to a factor.
+    A model term of the form "A : B" is the AB interaction term.
+    A model term of the form "A * B" is equivalent to "A + B + A : B", i.e., all terms and interactions.
+    An "Error( )" term in the model will do stratification of error.
+    The URL "https://www.statmethods.net/stats/anova.html" explains a bit about model formulae for analysis of variance.
+    Function "anova" will collect the results into an analysis-of-variance table.
+    

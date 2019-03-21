@@ -1,0 +1,4 @@
+In preparing for class on Wed Jul 4, I think the core reading in K&S Chapter 4 is 4.1 to 4.5.
+
+In K&S Chapter 7, please complete Activities 5, 13, 15, 16, 17, 18.
+Submit using the file name "KS-Ch4.R".
